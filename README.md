@@ -1,6 +1,6 @@
 ﻿# ThsrReserve
-# Use Tensorflow, CNN, Keras Create Model
-# 建立高鐵搶票系統
+### Use Tensorflow, CNN, Keras Create Model
+### 建立高鐵搶票系統
 # Reserving
 * model.h5 -> 訓練好的model
 * predict.py -> 取得驗證碼且decode後回傳
