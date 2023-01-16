@@ -1,5 +1,5 @@
 ﻿# ThsrReserve
-### Use Tensorflow, CNN, Keras Create Model
+### Using Tensorflow, CNN, Keras, Python Create Model
 ### 建立高鐵搶票系統
 # Reserving
 * model.h5 -> 訓練好的model
