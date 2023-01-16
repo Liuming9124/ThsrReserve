@@ -14,4 +14,4 @@
 * repeat.py -> 回傳沒有重複的字元 (小工具)
 * train.py -> 處理資料並訓練模型
 * buildmodel.py -> 建立模型
-* ![image](https://user-images.githubusercontent.com/80050536/212624170-7e310fb3-4023-41ee-a4b7-904653cbd677.png)
+ ![image](https://user-images.githubusercontent.com/80050536/212624170-7e310fb3-4023-41ee-a4b7-904653cbd677.png)
